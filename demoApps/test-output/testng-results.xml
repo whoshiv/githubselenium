@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-01T16:49:01 IST" name="Default suite" finished-at="2024-03-01T16:49:17 IST" duration-ms="16440">
+    <groups>
+    </groups>
+    <test started-at="2024-03-01T16:49:01 IST" name="Default test" finished-at="2024-03-01T16:49:17 IST" duration-ms="16440">
+      <class name="WebElement.ToRegisterAndLoginUserTest">
+        <test-method is-config="true" signature="bc()[pri:0, instance:WebElement.ToRegisterAndLoginUserTest@71ba6d4e]" started-at="2024-03-01T16:49:01 IST" name="bc" finished-at="2024-03-01T16:49:06 IST" duration-ms="5204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method signature="toRegisterUserTest()[pri:1, instance:WebElement.ToRegisterAndLoginUserTest@71ba6d4e]" started-at="2024-03-01T16:49:06 IST" name="toRegisterUserTest" finished-at="2024-03-01T16:49:14 IST" duration-ms="8228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toRegisterUserTest -->
+        <test-method signature="toLoginUserTest()[pri:2, instance:WebElement.ToRegisterAndLoginUserTest@71ba6d4e]" started-at="2024-03-01T16:49:14 IST" name="toLoginUserTest" finished-at="2024-03-01T16:49:17 IST" duration-ms="2568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toLoginUserTest -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:WebElement.ToRegisterAndLoginUserTest@71ba6d4e]" started-at="2024-03-01T16:49:17 IST" name="ac" finished-at="2024-03-01T16:49:17 IST" duration-ms="350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- WebElement.ToRegisterAndLoginUserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
